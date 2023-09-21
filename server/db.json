@@ -1,0 +1,539 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "userName": "user1",
+      "gender": 0,
+      "dateOfBirth": "2023-12-12",
+      "address": "Hà Nội",
+      "email": "quy@gmail.com",
+      "password": "password1",
+      "role": 0,
+      "phoneNumber": "09876234723"
+    }
+  ],
+  "carts": [
+    {
+      "userId": 1,
+      "productId": 1,
+      "quantity": 1,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "productId": 1,
+      "quantity": 1,
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "productId": 1,
+      "quantity": 1,
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "productId": 1,
+      "quantity": 1,
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "productId": 1,
+      "quantity": 1,
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "productId": 1,
+      "quantity": 1,
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "productId": 1,
+      "quantity": 1,
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "productId": 1,
+      "quantity": 1,
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "productId": 2,
+      "quantity": 1,
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "productId": 1,
+      "quantity": 1,
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "productId": 3,
+      "quantity": 1,
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "productId": 5,
+      "quantity": 1,
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "productId": 1,
+      "quantity": 1,
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "productId": 5,
+      "quantity": 1,
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "product": {
+        "productId": 1,
+        "productName": "Áo thun nam",
+        "image": "https://tse3.mm.bing.net/th?id=OIP.lkPcRolZw3kNUIiz_0Qd9QHaKs&pid=Api&P=0&h=180",
+        "description": "",
+        "price": 100000
+      },
+      "quantity": 1,
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "product": {
+        "productId": 1,
+        "productName": "Áo thun nam",
+        "image": "https://tse3.mm.bing.net/th?id=OIP.lkPcRolZw3kNUIiz_0Qd9QHaKs&pid=Api&P=0&h=180",
+        "description": "",
+        "price": 100000
+      },
+      "quantity": 1,
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "product": {
+        "productId": 1,
+        "productName": "Áo thun nam",
+        "image": "https://tse3.mm.bing.net/th?id=OIP.lkPcRolZw3kNUIiz_0Qd9QHaKs&pid=Api&P=0&h=180",
+        "description": "",
+        "price": 100000
+      },
+      "quantity": 1,
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "product": {
+        "productId": 3,
+        "productName": "Nhẫn đeo tay",
+        "image": "https://cf.shopee.vn/file/649682d7549678e93b6fe16a59290805",
+        "description": "",
+        "price": 15000000
+      },
+      "quantity": 1,
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "product": {
+        "productId": 5,
+        "productName": "Điện thoại xiaomi Black Shark ",
+        "image": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-bjeppbhdp5mvc3",
+        "description": "",
+        "price": 15000000
+      },
+      "quantity": 1,
+      "id": 19
+    },
+    {
+      "userId": 1,
+      "product": {
+        "productId": 2,
+        "productName": "Áo thun cổ tròn",
+        "image": "https://dongphucvang.vn/wp-content/uploads/2020/08/ao-thun-nam-co-tron-mau-den-02.jpg",
+        "description": "",
+        "price": 150000
+      },
+      "quantity": 1,
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "product": {
+        "productId": 2,
+        "productName": "Áo thun cổ tròn",
+        "image": "https://dongphucvang.vn/wp-content/uploads/2020/08/ao-thun-nam-co-tron-mau-den-02.jpg",
+        "description": "",
+        "price": 150000
+      },
+      "quantity": 1,
+      "id": 21
+    },
+    {
+      "userId": 1,
+      "product": {
+        "productId": 4,
+        "productName": "Ốp lưng chống sốc",
+        "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-ljar8kgrq18y72",
+        "description": "",
+        "price": 15000000
+      },
+      "quantity": 1,
+      "id": 22
+    },
+    {
+      "userId": 1,
+      "quantity": 1,
+      "id": 23
+    },
+    {
+      "userId": 1,
+      "quantity": 1,
+      "id": 24
+    },
+    {
+      "userId": 1,
+      "quantity": 1,
+      "id": 25
+    },
+    {
+      "userId": 1,
+      "quantity": 1,
+      "id": 26
+    },
+    {
+      "userId": 1,
+      "quantity": 1,
+      "id": 27
+    },
+    {
+      "userId": 1,
+      "quantity": 1,
+      "id": 28
+    },
+    {
+      "userId": 1,
+      "quantity": 1,
+      "id": 29
+    },
+    {
+      "userId": 1,
+      "quantity": 1,
+      "id": 30
+    },
+    {
+      "userId": 1,
+      "quantity": 1,
+      "id": 31
+    },
+    {
+      "userId": 1,
+      "quantity": 1,
+      "id": 32
+    },
+    {
+      "userId": 1,
+      "quantity": 1,
+      "id": 33
+    },
+    {
+      "userId": 1,
+      "productId": 4,
+      "quantity": 1,
+      "id": 34
+    },
+    {
+      "userId": 1,
+      "productId": 5,
+      "quantity": 1,
+      "id": 35
+    },
+    {
+      "userId": 1,
+      "productId": 5,
+      "quantity": 1,
+      "id": 36
+    },
+    {
+      "userId": 1,
+      "productId": 5,
+      "quantity": 1,
+      "id": 37
+    },
+    {
+      "userId": 1,
+      "productId": 5,
+      "quantity": 1,
+      "id": 38
+    },
+    {
+      "userId": 1,
+      "productId": 4,
+      "quantity": 1,
+      "id": 39
+    },
+    {
+      "userId": 1,
+      "productId": 4,
+      "quantity": 1,
+      "id": 40
+    },
+    {
+      "userId": 1,
+      "productId": 4,
+      "quantity": 1,
+      "id": 41
+    },
+    {
+      "userId": 1,
+      "productId": 3,
+      "quantity": 1,
+      "id": 42
+    },
+    {
+      "userId": 1,
+      "productId": 4,
+      "quantity": 1,
+      "id": 43
+    },
+    {
+      "userId": 1,
+      "productId": 4,
+      "quantity": 1,
+      "id": 44
+    },
+    {
+      "userId": 1,
+      "productId": 4,
+      "quantity": 1,
+      "id": 45
+    },
+    {
+      "userId": 1,
+      "cartDetails": [
+        {
+          "productId": 4,
+          "quantity": 1
+        }
+      ],
+      "id": 46
+    },
+    {
+      "userId": 1,
+      "cartDetails": [
+        {
+          "productId": 4,
+          "quantity": 1
+        }
+      ],
+      "id": 47
+    },
+    {
+      "userId": 1,
+      "cartDetails": [
+        {
+          "productId": 4,
+          "quantity": 1
+        }
+      ],
+      "id": 48
+    },
+    {
+      "userId": 1,
+      "cartDetails": [
+        {
+          "productId": 4,
+          "quantity": 1
+        }
+      ],
+      "id": 49
+    },
+    {
+      "userId": 1,
+      "cartDetails": [
+        {
+          "productId": 5,
+          "quantity": 1
+        }
+      ],
+      "id": 50
+    },
+    {
+      "userId": 1,
+      "cartDetails": [
+        {
+          "productId": 5,
+          "quantity": 1
+        }
+      ],
+      "id": 51
+    },
+    {
+      "userId": 1,
+      "cartDetails": [
+        {
+          "productId": 5,
+          "quantity": 1
+        }
+      ],
+      "id": 52
+    },
+    {
+      "userId": 1,
+      "cartDetails": [
+        {
+          "productId": 5,
+          "quantity": 1
+        }
+      ],
+      "id": 53
+    },
+    {
+      "userId": 1,
+      "cartDetails": [
+        {
+          "productId": 4,
+          "quantity": 1
+        }
+      ],
+      "id": 54
+    },
+    {
+      "userId": 1,
+      "cartDetails": [
+        {
+          "productId": 4,
+          "quantity": 1
+        }
+      ],
+      "id": 55
+    },
+    {
+      "userId": 1,
+      "cartDetails": [
+        {
+          "productId": 4,
+          "quantity": 1
+        }
+      ],
+      "id": 56
+    },
+    {
+      "userId": 1,
+      "cartDetails": [
+        {
+          "productId": 4,
+          "quantity": 1
+        }
+      ],
+      "id": 57
+    },
+    {
+      "userId": 2,
+      "cartDetails": [
+        {
+          "productId": 2,
+          "quantity": 4194116
+        },
+        {
+          "productId": 1,
+          "quantity": 192
+        }
+      ],
+      "id": 58
+    },
+    {
+      "userId": 2,
+      "cartDetails": [
+        {
+          "productId": 2,
+          "quantity": 1
+        }
+      ],
+      "id": 59
+    },
+    {
+      "userId": 3,
+      "cartDetails": [
+        {
+          "productId": 2,
+          "quantity": 23
+        }
+      ],
+      "id": 60
+    },
+    {
+      "userId": 3,
+      "cartDetails": [
+        {
+          "productId": 2,
+          "quantity": 1
+        }
+      ],
+      "id": 61
+    },
+    {
+      "userId": 5,
+      "cartDetails": [
+        {
+          "productId": 1,
+          "quantity": 19
+        },
+        {
+          "productId": 2,
+          "quantity": 8
+        }
+      ],
+      "id": 62
+    }
+  ],
+  "products": [
+    {
+      "productId": 1,
+      "productName": "Áo thun nam",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.lkPcRolZw3kNUIiz_0Qd9QHaKs&pid=Api&P=0&h=180",
+      "description": "",
+      "price": 100000
+    },
+    {
+      "productId": 2,
+      "productName": "Áo thun cổ tròn",
+      "image": "https://dongphucvang.vn/wp-content/uploads/2020/08/ao-thun-nam-co-tron-mau-den-02.jpg",
+      "description": "",
+      "price": 150000
+    },
+    {
+      "productId": 3,
+      "productName": "Nhẫn đeo tay",
+      "image": "https://cf.shopee.vn/file/649682d7549678e93b6fe16a59290805",
+      "description": "",
+      "price": 15000000
+    },
+    {
+      "productId": 4,
+      "productName": "Ốp lưng chống sốc",
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-ljar8kgrq18y72",
+      "description": "",
+      "price": 15000000
+    },
+    {
+      "productId": 5,
+      "productName": "Điện thoại xiaomi Black Shark ",
+      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-bjeppbhdp5mvc3",
+      "description": "",
+      "price": 15000000
+    }
+  ]
+}

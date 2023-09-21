@@ -1,0 +1,136 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "userName": "user1",
+      "gender": 0,
+      "dateOfBirth": "2023-12-12",
+      "address": "Hà Nội",
+      "email": "quy@gmail.com",
+      "password": "password1",
+      "role": 0,
+      "phoneNumber": "09876234723"
+    }
+  ],
+  "carts": [
+    {
+      "userId": 12,
+      "cartDetails": [
+        {
+          "productId": 1,
+          "quantity": 15
+        },
+        {
+          "productId": 2,
+          "quantity": 1
+        },
+        {
+          "productId": 4,
+          "quantity": 2
+        }
+      ],
+      "id": 3
+    },
+    {
+      "userId": 13,
+      "cartDetails": [
+        {
+          "productId": 3,
+          "quantity": 5
+        },
+        {
+          "productId": 2,
+          "quantity": 8
+        },
+        {
+          "productId": 1,
+          "quantity": 7
+        },
+        {
+          "productId": 4,
+          "quantity": 1
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "productName": "Áo thun nam",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.lkPcRolZw3kNUIiz_0Qd9QHaKs&pid=Api&P=0&h=180",
+      "description": "",
+      "price": 120000
+    },
+    {
+      "id": 2,
+      "productName": "Áo thun cổ tròn",
+      "image": "https://dongphucvang.vn/wp-content/uploads/2020/08/ao-thun-nam-co-tron-mau-den-02.jpg",
+      "description": "",
+      "price": 150000
+    },
+    {
+      "id": 3,
+      "productName": "Nhẫn đeo tay",
+      "image": "https://cf.shopee.vn/file/649682d7549678e93b6fe16a59290805",
+      "description": "",
+      "price": 15000000
+    },
+    {
+      "id": 4,
+      "productName": "Ốp lưng chống sốc",
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-ljar8kgrq18y72",
+      "description": "",
+      "price": 19000000
+    },
+    {
+      "id": 5,
+      "productName": "Điện thoại xiaomi Black Shark ",
+      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-bjeppbhdp5mvc3",
+      "description": "",
+      "price": 900000
+    },
+    {
+      "id": 6,
+      "productName": "Miếng dán 3M 2 mặt",
+      "image": "https://down-vn.img.susercontent.com/file/6f2cdf51040ddad339e8b197c74035d0",
+      "description": "",
+      "price": 1000
+    },
+    {
+      "id": 7,
+      "productName": "Ốp Lưng Iphone Silicon",
+      "image": "https://down-vn.img.susercontent.com/file/0f48426a87ae95b9d02a43c1973883a2",
+      "description": "",
+      "price": 7900
+    },
+    {
+      "id": 8,
+      "productName": "Balo nam nữ đi học",
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lk3ig36ri96q57",
+      "description": "",
+      "price": 145000
+    },
+    {
+      "id": 9,
+      "productName": "GIÀY 𝐕𝐀𝐍𝐒 OLD SKOOL",
+      "image": "https://down-vn.img.susercontent.com/file/55748d88eeb21c7127b18ce810aeaf1c",
+      "description": "",
+      "price": 75000
+    },
+    {
+      "id": 9,
+      "productName": "Dép Quai Ngang Nam Nữ",
+      "image": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-zjza0fzp60mvda",
+      "description": "",
+      "price": 77000
+    },
+    {
+      "id": 10,
+      "productName": "Dép Đi Trong Nhà",
+      "image": "https://down-vn.img.susercontent.com/file/0915dccd6d5e24406369eff144409a76",
+      "description": "",
+      "price": 24000
+    }
+  ]
+}
